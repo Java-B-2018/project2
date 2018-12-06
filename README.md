@@ -49,7 +49,7 @@
 
 + [设计师网址导航](https://hao.uisdc.com/)
 
-+ [在知乎上搜索问题](http)
++ [在知乎上搜索问题](https://www.zhihu.com/)
 
 可以得满分的图形界面设计如下图所示：
 ![ui](./images/ui.jpg)
